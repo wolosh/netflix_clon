@@ -1,0 +1,125 @@
+{
+    "galeria": [
+      {
+        "titulo": "Ant-Man and the Wasp: Quantumania",
+        "imagen": "imagenes/ciencia_ficcion/cfimg1.jpeg",
+        "genero": "Ciencia Ficción",
+        "Año": "2023"
+      },
+      {
+        "titulo": "Guardianes de la Galaxia volumen 3",
+        "imagen": "imagenes/ciencia_ficcion/cfimg2.jpeg",
+        "genero": "Ciencia Ficción",
+        "Año": "2023"
+      },
+      {
+        "titulo": "Avatar: El camino del agua",
+        "imagen": "imagenes/ciencia_ficcion/cfimg3.jpeg",
+        "genero": "Ciencia Ficción",
+        "Año": "2022"
+      },
+      {
+        "titulo": "65: Al borde de la extinción",
+        "imagen": "imagenes/ciencia_ficcion/cfimg4.jpeg",
+        "genero": "Ciencia Ficción",
+        "Año": "2023"
+      },
+      {
+        "titulo": "Pantera Negra: Wakanda por siempre",
+        "imagen": "imagenes/ciencia_ficcion/cfimg5.jpeg",
+        "genero": "Ciencia Ficción",
+        "Año": "2022"
+      },
+      {
+        "titulo": "Evil Dead: El despertar",
+        "imagen": "imagenes/terror/timg1.jpeg",
+        "genero": "Terror",
+        "Año": "2023"
+      },
+      {
+        "titulo": "El exorcista del Papa",
+        "imagen": "imagenes/terror/timg2.jpeg",
+        "genero": "Terror",
+        "Año": "2023"
+      },
+      {
+        "titulo": "Scream 6",
+        "imagen": "imagenes/terror/timg3.jpeg",
+        "genero": "Terror",
+        "Año": "2023"
+      },
+      {
+        "titulo": "Resurreción de las Brujas",
+        "imagen": "imagenes/terror/timg4.jpeg",
+        "genero": "Terror",
+        "Año": "2023"
+      },
+      {
+        "titulo": "Sin tiempo",
+        "imagen": "imagenes/terror/timg5.jpeg",
+        "genero": "Terror",
+        "Año": "2023"
+      },
+      {
+        "titulo": "Ghosteado",
+        "imagen": "imagenes/accion/acimg1.jpeg",
+        "genero": "Acción",
+        "Año": "2023"
+      },
+      {
+        "titulo": "Alias",
+        "imagen": "imagenes/accion/acimg2.jpeg",
+        "genero": "Acción",
+        "Año": "2023"
+      },
+      {
+        "titulo": "Creed III",
+        "imagen": "imagenes/accion/acimg3.jpeg",
+        "genero": "Acción",
+        "Año": "2023"
+      },
+      {
+        "titulo": "John Wick 4",
+        "imagen": "imagenes/accion/acimg4.jpeg",
+        "genero": "Acción",
+        "Año": "2023"
+      },
+      {
+        "titulo": "Rápidos y furiosos X",
+        "imagen": "imagenes/accion/acimg5.jpeg",
+        "genero": "Acción",
+        "Año": "2023"
+      },
+      {
+        "titulo": "Super Mario Bros. La película",
+        "imagen": "imagenes/animadas/aimg1.jpeg",
+        "genero": "Animadas",
+        "Año": "2023"
+      },
+      {
+        "titulo": "Gato con Botas: El último deseo",
+        "imagen": "imagenes/animadas/aimg2.jpeg",
+        "genero": "Animadas",
+        "Año": "2022"
+      },
+      {
+        "titulo": "Las momias y el anillo perdido",
+        "imagen": "imagenes/animadas/aimg3.jpeg",
+        "genero": "Animadas",
+        "Año": "2023"
+      },
+      {
+        "titulo": "Demon Slayer Villa de Herreros",
+        "imagen": "imagenes/animadas/aimg4.jpeg",
+        "genero": "Animadas",
+        "Año": "2023"
+      },
+      {
+        "titulo": "La Liga de la Justicia Oscura: Guerra Apokolips",
+        "imagen": "imagenes/animadas/aimg5.jpeg",
+        "genero": "Animadas",
+        "Año": "2020"
+      }
+    ]
+  }
+  
